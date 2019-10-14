@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lipstick and Pumpkins"
-date:   2019-10-12
+date:   2019-10-14
 excerpt: "With armpit hair on people's minds and livestock cannibalism on the
 rise, many people see socialism as a positive step."
 ---
